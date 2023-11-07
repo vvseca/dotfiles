@@ -1,2 +1,2 @@
 # dotfiles
-personal artix dotfiles 
+personal artix dotfiles
